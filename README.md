@@ -55,8 +55,6 @@ Sou engajado com questões que proporcionem evolução pessoal e profissional a 
 <div>  
   <h4 align="right"> Visitantes </h4>
   <img align="right" src="https://profile-counter.glitch.me/igormor4es/count.svg">
-</div>
-                                                                                 
-<div> 
+</div> 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
 </div>
