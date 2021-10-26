@@ -1,4 +1,4 @@
-<h1 align="center">Olá 🛸, Bem Vindo(a)! </h1>
+<h1 align="center">Olá, Bem Vindo(a)! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 Sou um Desenvolvedor Jr. Full Stack autodidata, formado em Análise e Desenvolvimento de Sistemas na [FATEC](http://www.fateclins.edu.br/v4.0/). Empenhado, curioso e esforçado, resolvi migrar para área de tecnologia da informação aos 27 anos. Todos os dias me esforço para aprender algo novo. De lá para cá elaborei alguns projetos acadêmicos e pessoais para acrescentar meu nível de compreensão hábil e aplicabilidade das tecnologias.
 
