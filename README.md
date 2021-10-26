@@ -40,9 +40,12 @@ Sou engajado com questões que proporcionem evolução pessoal e profissional a 
  
   ##
 <div>
-  <h3 align="left">Siga-me nas redes sociais :alien: </h3>
+  <h3 align="left">Siga-me nas Redes Sociais :alien: </h3>
   <p align="left"> 
   <a href="https://www.linkedin.com/in/igor-de-moraes-silva-ribeiro-45372477/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
+  <a href="https://www.instagram.com/igormoraes90/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-993399?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="30" width="110" /></a>
+   <a href="https://www.facebook.com/profile.php?id=100005100195513" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="instagram" height="30" width="110" /></a>
+  <a href="https://github.com/igormor4es" target="blank"><img align="center" src="https://img.shields.io/github/followers/igormor4es?style=social" alt="github" height="30" width="110" /></a>
 </div>
 
 [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt=" spotify playing" width="400" />](https://open.spotify.com/user/mano_tomasito)
