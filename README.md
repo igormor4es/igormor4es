@@ -1,10 +1,8 @@
 <h1 align="center">Olá, Bem Vindo(a)! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-Sou um Desenvolvedor Jr. Full Stack autodidata, formado em Análise e Desenvolvimento de Sistemas na [FATEC](http://www.fateclins.edu.br/v4.0/). Empenhado, curioso e esforçado, resolvi migrar para área de tecnologia da informação aos 27 anos. Todos os dias me esforço para aprender algo novo. De lá para cá elaborei alguns projetos acadêmicos e pessoais para acrescentar meu nível de compreensão hábil e aplicabilidade das tecnologias.
+Sou Desenvolvedor Jr. Full Stack, formado em Análise e Desenvolvimento de Sistemas na [FATEC](http://www.fateclins.edu.br/v4.0/). Empenhado, curioso e esforçado, resolvi migrar para área de tecnologia da informação aos 27 anos. Todos os dias me esforço para aprender algo novo. De lá para cá elaborei alguns projetos acadêmicos e pessoais para acrescentar meu nível de compreensão hábil e aplicabilidade das tecnologias.
 
-Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes. Meus colegas me descreveriam como uma pessoa motivada e esforçada, que mantém uma atitude positiva e proativa diante das adversidades, buscando sempre solucionar os dilemas da melhor forma possível.
-
-Sou engajado com questões que proporcionem evolução pessoal e profissional a mim e aos demais envolvidos. Gosto de impulsionar as pessoas extraindo o melhor de cada um, assim, compreendo mais e consigo propagar o que conheço. 
+Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes. Meus colegas me descreveriam como uma pessoa motivada e esforçada, que mantém uma atitude positiva e proativa diante das adversidades, buscando sempre solucionar os dilemas da melhor forma possível. Sou engajado com questões que proporcionem evolução pessoal e profissional a mim e aos demais envolvidos. Gosto de impulsionar as pessoas extraindo o melhor de cada um, assim, compreendo mais e consigo propagar o que conheço. 
 
 <br>
 
