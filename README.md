@@ -43,8 +43,6 @@ Sou engajado com questões que proporcionem evolução pessoal e profissional a 
    <a href="https://www.facebook.com/profile.php?id=100005100195513" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="instagram" height="30" width="110" /></a>
   <a href="https://github.com/igormor4es" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="github" height="30" width="110" /></a>
 </div>
-
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt=" spotify playing" width="400" />](https://open.spotify.com/user/mano_tomasito)
   
 <div>  
   <h4 align="right"> Visitantes </h4>
