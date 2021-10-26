@@ -33,11 +33,7 @@ Sou engajado com questões que proporcionem evolução pessoal e profissional a 
   <img align = "center" src="https://i.imgur.com/YxyiXo4.png" alt="react" width="35" height="35"/>  
   <img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/>      
 </div>
-  
-<div>
-  <img align="right" alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv">
-</div>
- 
+
   ##
 <div>
   <h3 align="left">Siga-me nas Redes Sociais :alien: </h3>
