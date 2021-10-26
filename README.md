@@ -40,7 +40,7 @@ Sou engajado com questões que proporcionem evolução pessoal e profissional a 
   <a href="https://github.com/igormor4es" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="github" height="30" width="110" /></a>
 </div>
  
- ## Visitantes
+ ## Visitantes :octocat:
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/igormor4es/count.svg" />
  </p>
