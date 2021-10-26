@@ -31,18 +31,17 @@ Sou engajado com questões que proporcionem evolução pessoal e profissional a 
   <img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/>      
 </div>
 
-  ##
+## Siga-me nas Redes Sociais :alien:
 <div>
-  <h3 align="left">Siga-me nas Redes Sociais :alien: </h3>
   <p align="left"> 
   <a href="https://www.linkedin.com/in/igor-de-moraes-silva-ribeiro-45372477/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
   <a href="https://www.instagram.com/igormoraes90/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-993399?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="30" width="110" /></a>
    <a href="https://www.facebook.com/profile.php?id=100005100195513" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="instagram" height="30" width="110" /></a>
   <a href="https://github.com/igormor4es" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="github" height="30" width="110" /></a>
 </div>
-  
+ 
+ ## Visitantes
 <div>  
-  <h4 align="right"> Visitantes </h4>
   <img align="right" src="https://profile-counter.glitch.me/igormor4es/count.svg">
    </div> 
     
