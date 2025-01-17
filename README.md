@@ -1,8 +1,9 @@
 <h1 align="center">Olá, Bem Vindo(a)!</h2>
 
-Sou Desenvolvedor Jr. Full Stack, formado em Análise e Desenvolvimento de Sistemas na [FATEC](http://www.fateclins.edu.br/v4.0/). Empenhado, curioso e esforçado, resolvi migrar para área de tecnologia da informação aos 27 anos. Todos os dias me esforço para aprender algo novo. De lá para cá elaborei alguns projetos acadêmicos e pessoais para acrescentar meu nível de compreensão hábil e aplicabilidade das tecnologias.
-
-Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes. Meus colegas me descreveriam como uma pessoa motivada e esforçada, que mantém uma atitude positiva e proativa diante das adversidades, buscando sempre solucionar os dilemas da melhor forma possível. Sou engajado com questões que proporcionem evolução pessoal e profissional a mim e aos demais envolvidos. Gosto de impulsionar as pessoas extraindo o melhor de cada um, assim, compreendo mais e consigo propagar o que conheço. 
+👋 Olá! Sou um Desenvolvedor Full Stack, formado em Análise e Desenvolvimento de Sistemas pela [FATEC](http://www.fateclins.edu.br/v4.0/). Minha jornada na tecnologia começou aos 27 anos, e desde então, tenho me dedicado a aprender e crescer diariamente.
+💡 Sou apaixonado por criar soluções inovadoras para desafios relevantes e tenho experiência em projetos acadêmicos e pessoais que ampliaram minha compreensão das tecnologias.
+🌟 Meus colegas me veem como uma pessoa motivada e proativa, sempre buscando a melhor forma de resolver problemas. Acredito no poder da colaboração e estou comprometido em ajudar os outros a alcançarem seu potencial máximo.
+🚀 Estou sempre em busca de evolução, tanto pessoal quanto profissional, e adoro compartilhar conhecimento. Vamos conectar e explorar novas ideias juntos!
 
 <br>
 
