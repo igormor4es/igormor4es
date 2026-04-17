@@ -60,5 +60,3 @@ Tenho perfil analítico, gosto de desafios complexos e busco sempre entregar sol
 ## 👀 Visitantes
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=igormor4es)
-
-![Snake animation](https://github.com/igormor4es/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
